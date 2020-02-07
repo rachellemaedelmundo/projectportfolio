@@ -1,0 +1,156 @@
+@font-face{
+    src: url(../fonts/Sacramento-Regular.ttf);
+    font-family: Sacramento
+}
+@font-face{
+    src: url(../fonts/Montserrat/Montserrat-Regular.ttf);
+    font-family: Montserrat;
+}
+
+@font-face{
+    src: url(../fonts/Merriweather-Regular.ttf);
+    font-family: Merriweather;
+}
+*{
+    padding: 0px;
+    margin:0px;
+}
+.top-container{
+    background-image: url(../images/bulb.jpg);
+    text-align: center;
+    padding:30px;
+    height:300px;
+    color:rgb(124, 206, 221);
+    font-family: Sacramento;
+}
+.top-title{
+    margin:10px;
+    padding:10px;
+    font-size:80px;
+}
+.sub-content{
+    font-size:40px;
+    font-family: Merriweather;
+}
+#pic{
+    height:250px;
+    width:250px;
+    border-radius: 100px;
+    margin: 50px;
+}
+.mid-container{
+    text-align: center;
+    background-image: url(../images/heyy.jpg);
+}
+.hello{
+    color:rgb(23, 121, 116);
+    font-size: 80px;
+    font-weight: bold;
+    font-family: Sacramento;
+}
+.bio{
+    font-family: Merriweather;
+    color:rgb(23, 121, 116);
+    font-size: 30px;
+    font-weight: bold;
+}
+.bio2{
+    font-family: Monserrat;
+    color:rgb(23, 121, 116);
+    font-size: 30px;
+    font-weight: bold;
+    margin:20px;
+}
+.skills{
+    font-family: Sacramento;
+    font-weight: bold;
+    font-size: 80px;
+    margin:20px;
+    color:rgb(23, 121, 116);
+}
+#laptop{
+    width: 13rem;
+    border-radius: 60%;
+    position: absolute;
+    margin-bottom: 100px;
+    margin-left: 260px;
+    margin-right: 100px;
+   
+}
+.web{
+    font-size: 60px;
+    position: absolute center;
+    color:black;
+    margin:10px;
+}
+.know{
+    font-size: 40px;
+    font-family: Merriweather;
+    font-weight: bold;
+    position: absolute center;
+    margin: 60px;
+}
+.com-p{
+    font-family: Sacramento;
+    font-size: 80px;
+    font-weight: bold;
+    color:rgb(23, 121, 116);
+    margin-top: 30px;
+}
+.cp{
+    font-size: 35px;
+    font-family: Monserrat;
+    font-weight: bold;
+    color:black;
+    margin:40px;
+}
+.bottom-cont{
+    color:black;
+    font: bold;
+}
+.get{
+    font-size: 70px;
+    font-family: Sacramento;
+    color:rgb(23, 121, 116);
+    margin-top: 20px;
+    
+}
+.let{
+    font-size: 40px;
+    font-family: Monserrat;
+}
+.fighting{
+    font-size: 40px;
+    font-family: Merriweather;
+    font-weight: bold;
+}
+.button{
+    line-height: auto;
+    color:rgb(31, 192, 197);
+    margin: 50px;
+    font-weight: bold;
+    font-size: 50px;
+    padding: 10px;
+    border-radius: 15px;
+    border-color:black;
+}
+.footer{
+    background-color: cadetblue;
+    height: 60px;
+    padding: 50px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size:30px;
+}
+.copyr{
+    padding: 10px;
+}
+.fb{
+    text-decoration: none;
+}
+.ig{
+    text-decoration: none;
+}
+.twit{
+    text-decoration: none;
+}
